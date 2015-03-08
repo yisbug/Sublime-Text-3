@@ -1,15 +1,23 @@
 {
 	"folder_history":
 	[
-		"/D/project/sublime-undocs",
+		"/D/project/xxsys",
+		"/D/project/onlinegame",
+		"/D/project/node-supervisor",
+		"/D/project/daofulin",
+		"/D/project/CateringSystem",
+		"/D/project/xxsys/assets/css",
+		"/D/project/projecttool",
 		"/D/project/ring",
+		"/D/project/onlinegame-admin",
+		"/D/project/sublime-study",
+		"/D/project/sublime-undocs",
 		"/D/project/run",
 		"/D/project/rungame",
-		"/D/project/jiekou",
-		"/D/project/onlinegame"
+		"/D/project/jiekou"
 	],
 	"last_version": 3065,
-	"last_window_id": 4,
+	"last_window_id": 19,
 	"log_indexing": false,
 	"settings":
 	{
@@ -82,10 +90,10 @@
 					]
 				]
 			},
-			"build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+			"build_system": "",
 			"command_palette":
 			{
-				"height": 58.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
@@ -116,13 +124,21 @@
 				"height": 126.0,
 				"history":
 				[
+					"a",
+					"run",
+					"cmd",
+					"ls",
+					"hello word",
+					"test",
+					"delete",
+					"install",
 					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
 			{
-				"menu_visible": true,
+				"menu_visible": false,
 				"show_minimap": false,
 				"show_open_files": false,
 				"show_tabs": false,
@@ -131,22 +147,12 @@
 			},
 			"file_history":
 			[
-				"/D/project/sublime-undocs/sublime-undocs.sublime-project",
-				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414.info",
-				"/D/project/sublime-undocs/use.md",
-				"/D/project/sublime-undocs/Makefile",
-				"/D/project/sublime-undocs/README.md",
-				"/D/project/ring/api/inc/test.php",
-				"/D/project/ring/api/inc/cls_ring.php",
-				"/C/Users/y/Desktop/channel_report_2015-01-29-18原始版.txt",
-				"/D/project/sublime-undocs/README.html",
-				"/D/project/onlinegame/client/res/rename.coffee",
-				"/D/project/onlinegame/client/core/rest/rest.coffee",
-				"/D/project/sublime-undocs/常用.md",
-				"/D/project/onlinegame/index.html",
-				"/D/project/onlinegame/server.coffee",
-				"/D/project/onlinegame/config.json",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/project/sublime-study/test.sublime-keymap",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/project/sublime-undocs/sublime-undocs.sublime-project",
 				"/C/Users/y/.ssh/config",
 				"/D/project/sublime-undocs/CONTRIBUTING.md",
 				"/D/project/onlinegame/.project",
@@ -155,13 +161,14 @@
 				"/D/project/onlinegame/client/modules/bags/SmeltEquipment.coffee",
 				"/D/project/onlinegame/client/modules/setting/setting.js",
 				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/platform/winrt/inet_ntop_winrt.cpp",
-				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/project/onlinegame/index.html",
 				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
 				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
 				"/D/project/ring/api/update.php",
 				"/D/project/ring/api/inc/func.php",
+				"/D/project/ring/api/inc/cls_ring.php",
 				"/D/project/rungame/docs/test.md",
+				"/D/project/onlinegame/client/core/rest/rest.coffee",
 				"/D/project/rungame/module/init.coffee",
 				"/D/project/rungame/site/index.html",
 				"/C/Windows/System32/drivers/etc/hosts",
@@ -209,6 +216,7 @@
 				"/D/project/onlinegame/client/Loader.coffee",
 				"/D/project/onlinegame/client/modules/login/Login.coffee",
 				"/D/project/onlinegame/client/modules/fight/Fight.coffee",
+				"/D/project/onlinegame/config.json",
 				"/D/project/onlinegame/frameworks/runtime-src/proj.android/res/values/strings.xml",
 				"/D/project/onlinegame/public/data/configs.js",
 				"/D/project/onlinegame/client/core/table/table.coffee",
@@ -229,6 +237,7 @@
 				"/D/project/onlinegame/client/modules/equipment/UserProps.coffee",
 				"/D/project/onlinegame/client/modules/login/SelectServer.coffee",
 				"/D/project/onlinegame/client/modules/equipment/SelectEquipment.coffee",
+				"/D/project/onlinegame/server.coffee",
 				"/D/project/onlinegame/client/modules/equipment/Equip.coffee",
 				"/D/project/onlinegame/client/modules/equipment/Equip.js",
 				"/D/project/onlinegame/client/modules/fight/UnitSprite.js",
@@ -258,7 +267,14 @@
 				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccUtils.cpp",
 				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccUTF8.cpp",
 				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccCArray.cpp",
-				"/D/project/onlinegame/client/modules/login/LoginBgAndLogo.js"
+				"/D/project/onlinegame/client/modules/login/LoginBgAndLogo.js",
+				"/D/project/onlinegame/client/modules/login/LoginBgAndLogo.coffee",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/platform/android/ControllerManualAdapter/src/org/cocos2dx/lib/GameControllerActivity.java",
+				"/D/project/onlinegame/public/data/gemAttrs.js",
+				"/D/project/onlinegame/tools/bindings-generator/generator",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/editor-support/cocostudio/WidgetReader/CheckBoxReader/CheckBoxReader.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/2d/cocos2d_headers.props",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/CCDataVisitor.cpp"
 			],
 			"find":
 			{
@@ -277,16 +293,104 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"test",
-					"统一订购wap",
-					"统一订购",
-					"ctrl\nalt",
+					"\"],",
+					"command",
+					"expand_selection",
+					"ctrl+shift+space",
+					"toggle_record_macro",
+					"ctrl+q\"",
+					"ctrl+tab",
+					"alt",
+					"focus_group",
+					"ctrl+0\"",
+					"\"ctrl+1\"",
+					"切换焦点到",
+					"focus_group",
+					"alt",
+					"next_prev",
 					"ctrl",
-					"\n`",
-					"分隔选择的每一行并选择多",
+					"\"ctrl+1\"",
+					"\"ctrl+alt+1\"",
+					"\"ctrl+alt+2\"",
+					"\"ctrl+2\"",
+					"ctrl+2\"",
+					"down",
+					"scroll",
+					"alt",
+					"toggle_full_screen",
+					"ctrl+,\"",
+					"ctrl+.\"",
+					"ctrl+'\"",
+					"ctrl+]\"",
+					"ctrl+'\"",
+					"backspace\"",
+					"ctrl+j\"]",
+					"ctrl+k\"]",
+					"ctrl+k\"",
+					"ctrl+l\"",
+					"ctrl+k",
+					"\"down\"",
 					"ctrl",
+					"shift",
+					"\"ctrl+b\"",
+					"history",
+					"down",
+					"\"down\"",
+					"copy",
+					"ctrl+c\"",
+					"ctrl+a\"",
+					"ctrll+a\"",
+					"ctrl+shift+t\"",
+					"ctrl+t\"",
 					"test",
-					"req",
+					"by",
+					"test",
+					"command",
+					"ctrl+p\"",
+					"delete",
+					"save",
+					"move",
+					"find",
+					"save",
+					"上一屏",
+					"move_to",
+					"alt",
+					"ctrl+k",
+					"vin",
+					"\"vi",
+					"\"h\"",
+					"extend",
+					",\"extend\":false}",
+					"comment",
+					"<",
+					"false",
+					"forward",
+					"pages",
+					"move",
+					"pagedown",
+					"screen",
+					"alt",
+					"true",
+					"false",
+					"true",
+					"alt",
+					"false",
+					"characters",
+					"ctrl",
+					"true",
+					"false",
+					"extend",
+					"bol",
+					"to",
+					"move_to",
+					"extend",
+					"bol",
+					"to",
+					"move_to",
+					"false",
+					"extend",
+					"bol",
+					"file",
 					"			",
 					")->\n",
 					"true",
@@ -316,76 +420,7 @@
 					"isEnd",
 					"20",
 					"30",
-					"140",
-					"260",
-					"smokeList",
-					"scheduleUpdate",
-					"game.speed",
-					"jump",
-					"car.jump",
-					"game..speed",
-					"game.speed",
-					"sprite",
-					"scheduleUpdate",
-					"addChild",
-					"infoLayer",
-					"831",
-					"speed",
-					"createMap",
-					"sprite",
-					"()",
-					"game.speed",
-					"startGame",
-					"self",
-					"shadow",
-					"()",
-					"configs",
-					"]\n",
-					"Left",
-					"left",
-					"node",
-					"cc.eventManager",
-					"game",
-					"cc.log",
-					"console.log",
-					"console.lo",
-					"console.log",
-					"console",
-					"console.log",
-					"err",
-					"cc.log",
-					"event",
-					"alert",
-					"btnSmelt",
-					"res.btnSmelt",
-					"res.bagTitle",
-					"stack",
-					"alert",
-					"cc.fileUtils",
-					"cc.FileUtils",
-					"cc.fileUtils",
-					"cc.FileUtils",
-					"fileUtils",
-					"FileUtils",
-					"fileUtils",
-					"FileUtils",
-					"cc.fileUtils",
-					"fileUtils",
-					"jslist",
-					"baseResources",
-					"game.path.dir",
-					"弹窗等公共UI",
-					"bagTitle",
-					"btnSmelt",
-					"bagTitle",
-					"msgboxBg",
-					"game.path.dir",
-					"msgboxBg",
-					"game.path.dir",
-					"res",
-					"Res",
-					"res",
-					"nconf"
+					"140"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -393,11 +428,16 @@
 				"regex": false,
 				"replace_history":
 				[
+					"by",
+					"test",
+					"    {\"",
+					"{\"keys\":[\"ctrl+e\"],\"command\":\"move_to\",\"args\":{\"to\":\"eol\"}},//行尾",
+					"    {\"keys\":[\"ctrl+e\"],\"command\":\"move_to\",\"args\":{\"to\":\"eol\"}},//行尾",
 					"dirname"
 				],
 				"reverse": false,
-				"show_context": false,
-				"use_buffer2": false,
+				"show_context": true,
+				"use_buffer2": true,
 				"whole_word": false,
 				"wrap": true
 			},
@@ -409,14 +449,10 @@
 			{
 				"height": 36.0
 			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 130.0
-			},
+			"menu_visible": false,
 			"output.find_results":
 			{
-				"height": 284.0
+				"height": 0.0
 			},
 			"output.markdown":
 			{
@@ -604,6 +640,10 @@
 				"height": 500.0,
 				"selected_items":
 				[
+					[
+						"",
+						"D:\\project\\sublime-study\\sublime-study.sublime-project"
+					]
 				],
 				"width": 380.0
 			},
@@ -619,7 +659,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 213.0,
+			"side_bar_width": 233.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -634,6 +674,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"is",
+						"isDied"
+					],
 					[
 						"get",
 						"getChildByTag"
@@ -698,16 +742,40 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "site/index.html",
+					"settings":
+					{
+						"buffer_size": 1322,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "core/wx.coffee",
+					"settings":
+					{
+						"buffer_size": 1200,
+						"line_ending": "Windows"
+					}
+				}
 			],
-			"build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+			"build_system": "",
 			"command_palette":
 			{
-				"height": 35.0,
+				"height": 311.0,
 				"selected_items":
 				[
 					[
-						"ssjs",
-						"Set Syntax: JSON"
+						"delete",
+						"File: Delete"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"dele",
+						"Nodejs::Default File Settings"
 					],
 					[
 						"setting",
@@ -730,22 +798,28 @@
 						"Markdown Preview: Save to HTML"
 					]
 				],
-				"width": 400.0
+				"width": 424.0
 			},
 			"console":
 			{
 				"height": 126.0,
 				"history":
 				[
-					"view.settings().get('font_face')",
-					"view.settings()",
+					"a",
+					"run",
+					"cmd",
+					"ls",
+					"hello word",
+					"test",
+					"delete",
+					"install",
 					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
 			{
-				"menu_visible": true,
+				"menu_visible": false,
 				"show_minimap": false,
 				"show_open_files": false,
 				"show_tabs": false,
@@ -754,28 +828,43 @@
 			},
 			"expanded_folders":
 			[
-				"/D/project/sublime-undocs"
+				"/D/project/rungame",
+				"/D/project/rungame/core",
+				"/D/project/rungame/module",
+				"/D/project/rungame/site"
 			],
 			"file_history":
 			[
-				"/D/project/sublime-undocs/use.md",
-				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414",
-				"/C/Program Files/Sublime Text 3/Packages/Default.sublime-package",
-				"/D/project/sublime-undocs/sublime-undocs.sublime-project",
-				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414.info",
-				"/D/project/sublime-undocs/Makefile",
-				"/D/project/sublime-undocs/README.md",
-				"/D/project/ring/api/inc/test.php",
-				"/D/project/ring/api/inc/cls_ring.php",
-				"/C/Users/y/Desktop/channel_report_2015-01-29-18原始版.txt",
-				"/D/project/sublime-undocs/README.html",
-				"/D/project/onlinegame/client/res/rename.coffee",
-				"/D/project/onlinegame/client/core/rest/rest.coffee",
-				"/D/project/sublime-undocs/常用.md",
-				"/D/project/onlinegame/index.html",
-				"/D/project/onlinegame/server.coffee",
-				"/D/project/onlinegame/config.json",
+				"/D/project/rungame/module/main/layer.coffee",
+				"/D/project/rungame/module/main/map.coffee",
+				"/D/project/rungame/module/main/main.coffee",
+				"/D/project/rungame/core/game.coffee",
+				"/D/project/rungame/core/wx.coffee",
+				"/D/project/rungame/Gruntfile.coffee",
+				"/D/project/rungame/site/game.min.js",
+				"/D/project/rungame/Parkour/index.html",
+				"/D/project/rungame/game.js",
+				"/D/project/rungame/site/index.html",
+				"/D/project/rungame/module/config.coffee",
+				"/D/project/xxsys/Gruntfile.coffee",
+				"/D/project/rungame/core/game.js",
+				"/D/project/rungame/core/font.js",
+				"/D/project/rungame/module/main/layer.js",
+				"/D/project/rungame/module/main/car.js",
+				"/c/users/y/appdata/local/temp/res.js",
+				"/D/project/rungame/module/res.coffee",
+				"/D/project/rungame/module/init.js",
+				"/D/project/rungame/module/config.js",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/c/users/y/appdata/local/temp/Gruntfile.js",
+				"/D/project/rungame/site/index.php",
+				"/D/project/rungame/site/web.config",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/project/sublime-study/test.sublime-keymap",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/project/sublime-undocs/sublime-undocs.sublime-project",
 				"/C/Users/y/.ssh/config",
 				"/D/project/sublime-undocs/CONTRIBUTING.md",
 				"/D/project/onlinegame/.project",
@@ -784,23 +873,18 @@
 				"/D/project/onlinegame/client/modules/bags/SmeltEquipment.coffee",
 				"/D/project/onlinegame/client/modules/setting/setting.js",
 				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/platform/winrt/inet_ntop_winrt.cpp",
-				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/project/onlinegame/index.html",
 				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
 				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
 				"/D/project/ring/api/update.php",
 				"/D/project/ring/api/inc/func.php",
+				"/D/project/ring/api/inc/cls_ring.php",
 				"/D/project/rungame/docs/test.md",
+				"/D/project/onlinegame/client/core/rest/rest.coffee",
 				"/D/project/rungame/module/init.coffee",
-				"/D/project/rungame/site/index.html",
 				"/C/Windows/System32/drivers/etc/hosts",
-				"/D/project/rungame/core/wx.coffee",
 				"/D/project/rungame/build.xml",
 				"/D/project/rungame/module/main/addon.coffee",
-				"/D/project/rungame/module/main/map.coffee",
-				"/D/project/rungame/module/main/main.coffee",
-				"/D/project/rungame/module/config.coffee",
-				"/D/project/rungame/module/main/layer.coffee",
 				"/D/project/rungame/site/project.json",
 				"/D/project/onlinegame/frameworks/runtime-src/proj.ios_mac/ios/AppController.h",
 				"/D/project/run/res/map00.tmx",
@@ -810,15 +894,11 @@
 				"/D/project/rungame/module/res.js",
 				"/D/project/rungame/module/main/bgLayer.coffee",
 				"/D/project/onlinegame/client/main.js",
-				"/D/project/rungame/site/game.min.js",
 				"/D/project/run/res/map01.tmx",
 				"/D/project/run/project.json",
 				"/D/project/onlinegame/client/Loader.js",
-				"/D/project/rungame/module/config.js",
 				"/D/project/rungame/module/main/map.js",
-				"/D/project/rungame/module/main/layer.js",
 				"/D/project/rungame/module/css.css",
-				"/D/project/rungame/core/game.coffee",
 				"/D/project/onlinegame/client/core/game.coffee",
 				"/D/project/onlinegame/client/core/cocos2d.coffee",
 				"/D/project/rungame/core/cocos2d.coffee",
@@ -826,8 +906,6 @@
 				"/D/project/rungame/Parkour/src/PlayScene.js",
 				"/D/project/rungame/Parkour/src/BackgroundLayer.js",
 				"/D/project/rungame/Parkour/src/StatusLayer.js",
-				"/D/project/rungame/Parkour/index.html",
-				"/D/project/rungame/core/font.js",
 				"/D/project/onlinegame/client/modules/bags/Bags.coffee",
 				"/D/project/onlinegame/public/data/bags.js",
 				"/D/project/onlinegame/client/modules/bags/Bags.js",
@@ -838,6 +916,7 @@
 				"/D/project/onlinegame/client/Loader.coffee",
 				"/D/project/onlinegame/client/modules/login/Login.coffee",
 				"/D/project/onlinegame/client/modules/fight/Fight.coffee",
+				"/D/project/onlinegame/config.json",
 				"/D/project/onlinegame/frameworks/runtime-src/proj.android/res/values/strings.xml",
 				"/D/project/onlinegame/public/data/configs.js",
 				"/D/project/onlinegame/client/core/table/table.coffee",
@@ -858,6 +937,7 @@
 				"/D/project/onlinegame/client/modules/equipment/UserProps.coffee",
 				"/D/project/onlinegame/client/modules/login/SelectServer.coffee",
 				"/D/project/onlinegame/client/modules/equipment/SelectEquipment.coffee",
+				"/D/project/onlinegame/server.coffee",
 				"/D/project/onlinegame/client/modules/equipment/Equip.coffee",
 				"/D/project/onlinegame/client/modules/equipment/Equip.js",
 				"/D/project/onlinegame/client/modules/fight/UnitSprite.js",
@@ -882,14 +962,11 @@
 				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/CCController-iOS.mm",
 				"/D/project/onlinegame/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIButton.js",
 				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/ui/UIButton.h",
-				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/ui/UIButton.cpp",
-				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/ui/UITextBMFont.cpp",
-				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccUtils.cpp",
-				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccUTF8.cpp"
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/ui/UIButton.cpp"
 			],
 			"find":
 			{
-				"height": 36.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -904,16 +981,124 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"test",
-					"统一订购wap",
-					"统一订购",
-					"ctrl\nalt",
+					"onMe",
+					"screens",
+					"taskNum",
+					"distance",
+					"screens",
+					"distance",
+					"Distance",
+					"distance",
+					"Distance",
+					"distance",
+					"addedDistance",
+					"isEnd",
+					"getMapPosition",
+					"init",
+					"getMapPosition",
+					"runTask",
+					"showStartWindow",
+					"coffee",
+					"ressour",
+					",",
+					"\"],",
+					"command",
+					"expand_selection",
+					"ctrl+shift+space",
+					"toggle_record_macro",
+					"ctrl+q\"",
+					"ctrl+tab",
+					"alt",
+					"focus_group",
+					"ctrl+0\"",
+					"\"ctrl+1\"",
+					"切换焦点到",
+					"focus_group",
+					"alt",
+					"next_prev",
 					"ctrl",
-					"\n`",
-					"分隔选择的每一行并选择多",
+					"\"ctrl+1\"",
+					"\"ctrl+alt+1\"",
+					"\"ctrl+alt+2\"",
+					"\"ctrl+2\"",
+					"ctrl+2\"",
+					"down",
+					"scroll",
+					"alt",
+					"toggle_full_screen",
+					"ctrl+,\"",
+					"ctrl+.\"",
+					"ctrl+'\"",
+					"ctrl+]\"",
+					"ctrl+'\"",
+					"backspace\"",
+					"ctrl+j\"]",
+					"ctrl+k\"]",
+					"ctrl+k\"",
+					"ctrl+l\"",
+					"ctrl+k",
+					"\"down\"",
 					"ctrl",
+					"shift",
+					"\"ctrl+b\"",
+					"history",
+					"down",
+					"\"down\"",
+					"copy",
+					"ctrl+c\"",
+					"ctrl+a\"",
+					"ctrll+a\"",
+					"ctrl+shift+t\"",
+					"ctrl+t\"",
 					"test",
-					"req",
+					"by",
+					"test",
+					"command",
+					"ctrl+p\"",
+					"delete",
+					"save",
+					"move",
+					"find",
+					"save",
+					"上一屏",
+					"move_to",
+					"alt",
+					"ctrl+k",
+					"vin",
+					"\"vi",
+					"\"h\"",
+					"extend",
+					",\"extend\":false}",
+					"comment",
+					"<",
+					"false",
+					"forward",
+					"pages",
+					"move",
+					"pagedown",
+					"screen",
+					"alt",
+					"true",
+					"false",
+					"true",
+					"alt",
+					"false",
+					"characters",
+					"ctrl",
+					"true",
+					"false",
+					"extend",
+					"bol",
+					"to",
+					"move_to",
+					"extend",
+					"bol",
+					"to",
+					"move_to",
+					"false",
+					"extend",
+					"bol",
+					"file",
 					"			",
 					")->\n",
 					"true",
@@ -923,96 +1108,7 @@
 					"ctrl+e",
 					"{\"",
 					"e",
-					"end",
-					"window.onload",
-					"location.",
-					"20",
-					"30",
-					"20",
-					"380",
-					"32",
-					"distance",
-					"24",
-					"()",
-					"sprite",
-					"roadMap",
-					"Roadmap",
-					"roadMap",
-					"distance",
-					"20",
-					"isEnd",
-					"20",
-					"30",
-					"140",
-					"260",
-					"smokeList",
-					"scheduleUpdate",
-					"game.speed",
-					"jump",
-					"car.jump",
-					"game..speed",
-					"game.speed",
-					"sprite",
-					"scheduleUpdate",
-					"addChild",
-					"infoLayer",
-					"831",
-					"speed",
-					"createMap",
-					"sprite",
-					"()",
-					"game.speed",
-					"startGame",
-					"self",
-					"shadow",
-					"()",
-					"configs",
-					"]\n",
-					"Left",
-					"left",
-					"node",
-					"cc.eventManager",
-					"game",
-					"cc.log",
-					"console.log",
-					"console.lo",
-					"console.log",
-					"console",
-					"console.log",
-					"err",
-					"cc.log",
-					"event",
-					"alert",
-					"btnSmelt",
-					"res.btnSmelt",
-					"res.bagTitle",
-					"stack",
-					"alert",
-					"cc.fileUtils",
-					"cc.FileUtils",
-					"cc.fileUtils",
-					"cc.FileUtils",
-					"fileUtils",
-					"FileUtils",
-					"fileUtils",
-					"FileUtils",
-					"cc.fileUtils",
-					"fileUtils",
-					"jslist",
-					"baseResources",
-					"game.path.dir",
-					"弹窗等公共UI",
-					"bagTitle",
-					"btnSmelt",
-					"bagTitle",
-					"msgboxBg",
-					"game.path.dir",
-					"msgboxBg",
-					"game.path.dir",
-					"res",
-					"Res",
-					"res",
-					"nconf"
+					"end"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1020,57 +1116,98 @@
 				"regex": false,
 				"replace_history":
 				[
+					"by",
+					"test",
+					"    {\"",
+					"{\"keys\":[\"ctrl+e\"],\"command\":\"move_to\",\"args\":{\"to\":\"eol\"}},//行尾",
+					"    {\"keys\":[\"ctrl+e\"],\"command\":\"move_to\",\"args\":{\"to\":\"eol\"}},//行尾",
 					"dirname"
 				],
 				"reverse": false,
-				"show_context": false,
-				"use_buffer2": false,
+				"show_context": true,
+				"use_buffer2": true,
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "D:\\project\\onlinegame"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "D:\\project\\jiekou"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "D:\\project\\rungame"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "D:\\project\\run"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "D:\\project\\ring"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "D:\\project\\sublime-undocs"
-				}
-			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "site/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1322,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										715,
+										715
+									]
+								],
+								"settings":
+								{
+									"is_xml": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
 					]
 				},
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 1,
+							"file": "core/wx.coffee",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1200,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										872,
+										872
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 36.0
+				"height": 28.0
 			},
 			"input":
 			{
@@ -1096,7 +1233,7 @@
 				"cols":
 				[
 					0.0,
-					0.651155898044,
+					0.5,
 					1.0
 				],
 				"rows":
@@ -1105,21 +1242,17 @@
 					1.0
 				]
 			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 130.0
-			},
+			"menu_visible": false,
 			"output.find_results":
 			{
-				"height": 284.0
+				"height": 0.0
 			},
 			"output.markdown":
 			{
 				"height": 130.0
 			},
-			"position": "0,0,2,-32000,-32000,-1,-1,1047,1927,7,3847",
-			"project": "",
+			"position": "0,2,3,-1,-1,-1,-1,1047,0,7,1920",
+			"project": "rungame.sublime-project",
 			"replace":
 			{
 				"height": 66.0
@@ -1302,6 +1435,10 @@
 				"height": 500.0,
 				"selected_items":
 				[
+					[
+						"",
+						"D:\\project\\sublime-study\\sublime-study.sublime-project"
+					]
 				],
 				"width": 380.0
 			},
@@ -1313,7 +1450,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},
@@ -1321,20 +1458,23 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 213.0,
+			"side_bar_width": 233.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
-			"workspace_name": ""
+			"window_id": 19,
+			"workspace_name": "/D/project/rungame/rungame.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/D/project/sublime-undocs/sublime-undocs.sublime-workspace"
+			"/D/project/rungame/rungame.sublime-workspace",
+			"/D/project/sublime-study/sublime-study.sublime-workspace",
+			"/D/project/sublime-undocs/sublime-undocs.sublime-workspace",
+			"/D/project/xxsys/xxsys.sublime-workspace"
 		]
 	}
 }

@@ -1,0 +1,1477 @@
+{
+	"folder_history":
+	[
+		"/C/Users/y/AppData/Roaming/Sublime Text 3",
+		"/D/project/xxsys",
+		"/D/project/xxsys/bower_components",
+		"/D/project/browser-wu",
+		"/D/project/PrintService",
+		"/D/project/CateringSystem",
+		"/D/project/daofulin",
+		"/D/project/onlinegame",
+		"/D/project/node-supervisor",
+		"/D/project/xxsys/assets/css",
+		"/D/project/projecttool",
+		"/D/project/ring",
+		"/D/project/onlinegame-admin",
+		"/D/project/sublime-study",
+		"/D/project/sublime-undocs",
+		"/D/project/run",
+		"/D/project/rungame",
+		"/D/project/jiekou"
+	],
+	"last_version": 3065,
+	"last_window_id": 22,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 981.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"get",
+						"getChildByTag"
+					],
+					[
+						"road",
+						"roadMap"
+					],
+					[
+						"update",
+						"updateDistance"
+					],
+					[
+						"add",
+						"addChildPos"
+					],
+					[
+						"sc",
+						"screens"
+					],
+					[
+						"start",
+						"startSpeed"
+					],
+					[
+						"time",
+						"timeLabel"
+					],
+					[
+						"dis",
+						"distanceX"
+					],
+					[
+						"remove",
+						"removeObjects"
+					],
+					[
+						"set",
+						"setPosition"
+					],
+					[
+						"anch",
+						"anchorY"
+					],
+					[
+						"setC",
+						"setContentSize"
+					],
+					[
+						"bg",
+						"bgLayer"
+					],
+					[
+						"touch",
+						"touchBeganLocation"
+					],
+					[
+						"btn",
+						"btnS9Purple"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"mar",
+						"Markdown Preview: Save to HTML"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"a",
+					"run",
+					"cmd",
+					"ls",
+					"hello word",
+					"test",
+					"delete",
+					"install",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/project/rungame/build.xml",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/project/sublime-study/test.sublime-keymap",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/project/sublime-undocs/sublime-undocs.sublime-project",
+				"/C/Users/y/.ssh/config",
+				"/D/project/sublime-undocs/CONTRIBUTING.md",
+				"/D/project/onlinegame/.project",
+				"/D/project/onlinegame/.gitignore",
+				"/D/project/onlinegame/.cocos-project.json",
+				"/D/project/onlinegame/client/modules/bags/SmeltEquipment.coffee",
+				"/D/project/onlinegame/client/modules/setting/setting.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/platform/winrt/inet_ntop_winrt.cpp",
+				"/D/project/onlinegame/index.html",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/D/project/ring/api/update.php",
+				"/D/project/ring/api/inc/func.php",
+				"/D/project/ring/api/inc/cls_ring.php",
+				"/D/project/rungame/docs/test.md",
+				"/D/project/onlinegame/client/core/rest/rest.coffee",
+				"/D/project/rungame/module/init.coffee",
+				"/D/project/rungame/site/index.html",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/project/rungame/core/wx.coffee",
+				"/D/project/rungame/module/main/addon.coffee",
+				"/D/project/rungame/module/main/map.coffee",
+				"/D/project/rungame/module/main/main.coffee",
+				"/D/project/rungame/module/config.coffee",
+				"/D/project/rungame/module/main/layer.coffee",
+				"/D/project/rungame/site/project.json",
+				"/D/project/onlinegame/frameworks/runtime-src/proj.ios_mac/ios/AppController.h",
+				"/D/project/run/res/map00.tmx",
+				"/D/project/run/frameworks/cocos2d-html5/template/src/myApp.js",
+				"/D/project/run/main.js",
+				"/D/project/rungame/module/main/car.coffee",
+				"/D/project/rungame/module/res.js",
+				"/D/project/rungame/module/main/bgLayer.coffee",
+				"/D/project/onlinegame/client/main.js",
+				"/D/project/rungame/site/game.min.js",
+				"/D/project/run/res/map01.tmx",
+				"/D/project/run/project.json",
+				"/D/project/onlinegame/client/Loader.js",
+				"/D/project/rungame/module/config.js",
+				"/D/project/rungame/module/main/map.js",
+				"/D/project/rungame/module/main/layer.js",
+				"/D/project/rungame/module/css.css",
+				"/D/project/rungame/core/game.coffee",
+				"/D/project/onlinegame/client/core/game.coffee",
+				"/D/project/onlinegame/client/core/cocos2d.coffee",
+				"/D/project/rungame/core/cocos2d.coffee",
+				"/D/project/onlinegame/client/core/cocos2d.js",
+				"/D/project/rungame/Parkour/src/PlayScene.js",
+				"/D/project/rungame/Parkour/src/BackgroundLayer.js",
+				"/D/project/rungame/Parkour/src/StatusLayer.js",
+				"/D/project/rungame/Parkour/index.html",
+				"/D/project/rungame/core/font.js",
+				"/D/project/onlinegame/client/modules/bags/Bags.coffee",
+				"/D/project/onlinegame/public/data/bags.js",
+				"/D/project/onlinegame/client/modules/bags/Bags.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/external/lua/luajit/build_android.sh",
+				"/D/project/onlinegame/client/core/button/button.coffee",
+				"/D/project/onlinegame/client/modules/skill/SelectSkill.coffee",
+				"/D/project/onlinegame/client/files.js",
+				"/D/project/onlinegame/client/Loader.coffee",
+				"/D/project/onlinegame/client/modules/login/Login.coffee",
+				"/D/project/onlinegame/client/modules/fight/Fight.coffee",
+				"/D/project/onlinegame/config.json",
+				"/D/project/onlinegame/frameworks/runtime-src/proj.android/res/values/strings.xml",
+				"/D/project/onlinegame/public/data/configs.js",
+				"/D/project/onlinegame/client/core/table/table.coffee",
+				"/D/project/onlinegame/client/core/loading/loading.coffee",
+				"/D/project/onlinegame/client/core/checkbox/checkbox.coffee",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/Cocos2dConstants.lua",
+				"/D/project/onlinegame/frameworks/cocos2d-html5/extensions/cocostudio/CocoStudio.js",
+				"/D/project/onlinegame/client/core/checkbox/checkbox.js",
+				"/D/project/onlinegame/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/CheckBoxReader/CheckBoxReader.js",
+				"/D/project/onlinegame/client/modules/equipment/UpgradeArtEquipment.coffee",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventController.lua",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/external/Box2D/Common/b2Settings.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/plugin/plugins/facebook/proj.ios/sdk/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBUserSettingsViewController.h",
+				"/D/project/onlinegame/client/modules/login/Login.js",
+				"/D/project/onlinegame/public/models/UserModel.equipment.coffee",
+				"/D/project/onlinegame/public/models/UserModel.user.coffee",
+				"/D/project/onlinegame/public/models/UserModel.coffee",
+				"/D/project/onlinegame/client/modules/equipment/UserProps.coffee",
+				"/D/project/onlinegame/client/modules/login/SelectServer.coffee",
+				"/D/project/onlinegame/client/modules/equipment/SelectEquipment.coffee",
+				"/D/project/onlinegame/server.coffee",
+				"/D/project/onlinegame/client/modules/equipment/Equip.coffee",
+				"/D/project/onlinegame/client/modules/equipment/Equip.js",
+				"/D/project/onlinegame/client/modules/fight/UnitSprite.js",
+				"/D/project/onlinegame/public/data/user.js",
+				"/D/project/onlinegame/public/data/equipments.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuadraticActionIn.lua",
+				"/D/project/onlinegame/client/models/ApiModel.coffee",
+				"/D/project/onlinegame/client/core/button/button.js",
+				"/D/project/onlinegame/client/res.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/docs/RELEASE_ENGINEERING.md",
+				"/D/project/onlinegame/readme.md",
+				"/D/project/onlinegame/test/FightModel.coffee",
+				"/D/project/onlinegame/test/fight.test.coffee",
+				"/D/project/onlinegame/public/data/fightprop.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FadeIn.lua",
+				"/D/project/onlinegame/client/modules/createrole/CreateRole.coffee",
+				"/D/project/onlinegame/server/lib/logutils.coffee",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/licenses/LICENSE_ogg_vorbis.txt",
+				"/D/project/onlinegame/public/data/artProps.js",
+				"/D/project/onlinegame/tools/bindings-generator/AUTHORS",
+				"/D/project/onlinegame/client/core/game.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/CCController-iOS.mm",
+				"/D/project/onlinegame/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIButton.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/ui/UIButton.h",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/ui/UIButton.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/ui/UITextBMFont.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccUtils.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccUTF8.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccCArray.cpp",
+				"/D/project/onlinegame/client/modules/login/LoginBgAndLogo.js",
+				"/D/project/onlinegame/client/modules/login/LoginBgAndLogo.coffee",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/platform/android/ControllerManualAdapter/src/org/cocos2dx/lib/GameControllerActivity.java",
+				"/D/project/onlinegame/public/data/gemAttrs.js",
+				"/D/project/onlinegame/tools/bindings-generator/generator",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/editor-support/cocostudio/WidgetReader/CheckBoxReader/CheckBoxReader.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/2d/cocos2d_headers.props",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/CCDataVisitor.cpp"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"//",
+					"\"extend\":true",
+					"\"],",
+					"command",
+					"expand_selection",
+					"ctrl+shift+space",
+					"toggle_record_macro",
+					"ctrl+q\"",
+					"ctrl+tab",
+					"alt",
+					"focus_group",
+					"ctrl+0\"",
+					"\"ctrl+1\"",
+					"切换焦点到",
+					"focus_group",
+					"alt",
+					"next_prev",
+					"ctrl",
+					"\"ctrl+1\"",
+					"\"ctrl+alt+1\"",
+					"\"ctrl+alt+2\"",
+					"\"ctrl+2\"",
+					"ctrl+2\"",
+					"down",
+					"scroll",
+					"alt",
+					"toggle_full_screen",
+					"ctrl+,\"",
+					"ctrl+.\"",
+					"ctrl+'\"",
+					"ctrl+]\"",
+					"ctrl+'\"",
+					"backspace\"",
+					"ctrl+j\"]",
+					"ctrl+k\"]",
+					"ctrl+k\"",
+					"ctrl+l\"",
+					"ctrl+k",
+					"\"down\"",
+					"ctrl",
+					"shift",
+					"\"ctrl+b\"",
+					"history",
+					"down",
+					"\"down\"",
+					"copy",
+					"ctrl+c\"",
+					"ctrl+a\"",
+					"ctrll+a\"",
+					"ctrl+shift+t\"",
+					"ctrl+t\"",
+					"test",
+					"by",
+					"test",
+					"command",
+					"ctrl+p\"",
+					"delete",
+					"save",
+					"move",
+					"find",
+					"save",
+					"上一屏",
+					"move_to",
+					"alt",
+					"ctrl+k",
+					"vin",
+					"\"vi",
+					"\"h\"",
+					"extend",
+					",\"extend\":false}",
+					"comment",
+					"<",
+					"false",
+					"forward",
+					"pages",
+					"move",
+					"pagedown",
+					"screen",
+					"alt",
+					"true",
+					"false",
+					"true",
+					"alt",
+					"false",
+					"characters",
+					"ctrl",
+					"true",
+					"false",
+					"extend",
+					"bol",
+					"to",
+					"move_to",
+					"extend",
+					"bol",
+					"to",
+					"move_to",
+					"false",
+					"extend",
+					"bol",
+					"file",
+					"			",
+					")->\n",
+					"true",
+					"ctrl+e\"",
+					"\"alt+",
+					"ctrl+e\"",
+					"ctrl+e",
+					"{\"",
+					"e",
+					"end",
+					"window.onload",
+					"location.",
+					"20",
+					"30",
+					"20",
+					"380",
+					"32",
+					"distance",
+					"24",
+					"()",
+					"sprite",
+					"roadMap",
+					"Roadmap",
+					"roadMap",
+					"distance",
+					"20",
+					"isEnd",
+					"20"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"by",
+					"test",
+					"    {\"",
+					"{\"keys\":[\"ctrl+e\"],\"command\":\"move_to\",\"args\":{\"to\":\"eol\"}},//行尾",
+					"    {\"keys\":[\"ctrl+e\"],\"command\":\"move_to\",\"args\":{\"to\":\"eol\"}},//行尾",
+					"dirname"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 480.0
+			},
+			"output.markdown":
+			{
+				"height": 130.0
+			},
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"onlinegame\\config.json"
+					],
+					[
+						"serverco",
+						"onlinegame\\server.coffee"
+					],
+					[
+						"index.html",
+						"onlinegame\\index.html"
+					],
+					[
+						"rest",
+						"onlinegame\\client\\core\\rest\\rest.coffee"
+					],
+					[
+						"mapcoffe",
+						"rungame\\module\\main\\map.coffee"
+					],
+					[
+						"cocos2d",
+						"onlinegame\\client\\core\\cocos2d.coffee"
+					],
+					[
+						"gamecoffee",
+						"onlinegame\\client\\core\\game.coffee"
+					],
+					[
+						"bags.coffee",
+						"onlinegame\\client\\modules\\bags\\Bags.coffee"
+					],
+					[
+						"loadercoffee",
+						"onlinegame\\client\\Loader.coffee"
+					],
+					[
+						"file",
+						"onlinegame\\client\\files.js"
+					],
+					[
+						"cocos2dcoffe",
+						"onlinegame\\client\\core\\cocos2d.coffee"
+					],
+					[
+						"coco",
+						"onlinegame\\client\\core\\cocos2d.js"
+					],
+					[
+						"selectskill",
+						"onlinegame\\client\\modules\\skill\\SelectSkill.coffee"
+					],
+					[
+						"cocos2dcoffee",
+						"onlinegame\\client\\core\\cocos2d.coffee"
+					],
+					[
+						"game",
+						"onlinegame\\client\\core\\game.coffee"
+					],
+					[
+						"checkbojs",
+						"onlinegame\\client\\core\\checkbox\\checkbox.js"
+					],
+					[
+						"checkboxcoffee",
+						"onlinegame\\client\\core\\checkbox\\checkbox.coffee"
+					],
+					[
+						"usermodele",
+						"onlinegame\\public\\models\\UserModel.equipment.coffee"
+					],
+					[
+						"login.js",
+						"onlinegame\\client\\modules\\login\\Login.js"
+					],
+					[
+						"upgrade",
+						"onlinegame\\client\\modules\\equipment\\UpgradeArtEquipment.coffee"
+					],
+					[
+						"login",
+						"onlinegame\\client\\modules\\login\\Login.coffee"
+					],
+					[
+						"usermodeco",
+						"onlinegame\\public\\models\\UserModel.coffee"
+					],
+					[
+						"usermodeluser",
+						"onlinegame\\public\\models\\UserModel.user.coffee"
+					],
+					[
+						"equip.js",
+						"onlinegame\\client\\modules\\equipment\\Equip.js"
+					],
+					[
+						"equip.coff",
+						"onlinegame\\client\\modules\\equipment\\Equip.coffee"
+					],
+					[
+						"buttn",
+						"onlinegame\\client\\core\\button\\button.coffee"
+					],
+					[
+						"logincof",
+						"onlinegame\\client\\modules\\login\\Login.coffee"
+					],
+					[
+						"apimodel",
+						"onlinegame\\client\\models\\ApiModel.coffee"
+					],
+					[
+						"fightcoffee",
+						"onlinegame\\client\\modules\\fight\\Fight.coffee"
+					],
+					[
+						"configs.js",
+						"onlinegame\\public\\data\\configs.js"
+					],
+					[
+						"configs",
+						"onlinegame\\public\\data\\configs.js"
+					],
+					[
+						"ccuibutton",
+						"onlinegame\\frameworks\\cocos2d-html5\\extensions\\ccui\\uiwidgets\\UIButton.js"
+					],
+					[
+						"bagscoffee",
+						"onlinegame\\client\\modules\\bags\\Bags.coffee"
+					],
+					[
+						"bagjs",
+						"onlinegame\\client\\modules\\bags\\Bags.js"
+					],
+					[
+						"checkboxjs",
+						"onlinegame\\client\\core\\checkbox\\checkbox.js"
+					],
+					[
+						"button.js",
+						"onlinegame\\client\\core\\button\\button.js"
+					],
+					[
+						"button.coffee",
+						"onlinegame\\client\\core\\button\\button.coffee"
+					],
+					[
+						"res.sj",
+						"client\\res.js"
+					],
+					[
+						"checboxcoff",
+						"client\\core\\checkbox\\checkbox.coffee"
+					],
+					[
+						"checkbox.js",
+						"client\\core\\checkbox\\checkbox.js"
+					],
+					[
+						"checkbox.coffe",
+						"client\\core\\checkbox\\checkbox.coffee"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\project\\sublime-study\\sublime-study.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1904.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"get",
+						"getChildByTag"
+					],
+					[
+						"road",
+						"roadMap"
+					],
+					[
+						"update",
+						"updateDistance"
+					],
+					[
+						"add",
+						"addChildPos"
+					],
+					[
+						"sc",
+						"screens"
+					],
+					[
+						"start",
+						"startSpeed"
+					],
+					[
+						"time",
+						"timeLabel"
+					],
+					[
+						"dis",
+						"distanceX"
+					],
+					[
+						"remove",
+						"removeObjects"
+					],
+					[
+						"set",
+						"setPosition"
+					],
+					[
+						"anch",
+						"anchorY"
+					],
+					[
+						"setC",
+						"setContentSize"
+					],
+					[
+						"bg",
+						"bgLayer"
+					],
+					[
+						"touch",
+						"touchBeganLocation"
+					],
+					[
+						"btn",
+						"btnS9Purple"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/y/AppData/Roaming/Sublime Text 3/README.md",
+					"settings":
+					{
+						"buffer_size": 2115,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "hotkey.md",
+					"settings":
+					{
+						"buffer_size": 1119,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Save to HTML"
+					],
+					[
+						"mar",
+						"Markdown Preview: Save to HTML"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"a",
+					"run",
+					"cmd",
+					"ls",
+					"hello word",
+					"test",
+					"delete",
+					"install",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/y/AppData/Roaming/Sublime Text 3"
+			],
+			"file_history":
+			[
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/project/rungame/build.xml",
+				"/D/project/sublime-study/test.sublime-keymap",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/project/sublime-undocs/sublime-undocs.sublime-project",
+				"/C/Users/y/.ssh/config",
+				"/D/project/sublime-undocs/CONTRIBUTING.md",
+				"/D/project/onlinegame/.project",
+				"/D/project/onlinegame/.gitignore",
+				"/D/project/onlinegame/.cocos-project.json",
+				"/D/project/onlinegame/client/modules/bags/SmeltEquipment.coffee",
+				"/D/project/onlinegame/client/modules/setting/setting.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/platform/winrt/inet_ntop_winrt.cpp",
+				"/D/project/onlinegame/index.html",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+				"/C/Users/y/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/D/project/ring/api/update.php",
+				"/D/project/ring/api/inc/func.php",
+				"/D/project/ring/api/inc/cls_ring.php",
+				"/D/project/rungame/docs/test.md",
+				"/D/project/onlinegame/client/core/rest/rest.coffee",
+				"/D/project/rungame/module/init.coffee",
+				"/D/project/rungame/site/index.html",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/project/rungame/core/wx.coffee",
+				"/D/project/rungame/module/main/addon.coffee",
+				"/D/project/rungame/module/main/map.coffee",
+				"/D/project/rungame/module/main/main.coffee",
+				"/D/project/rungame/module/config.coffee",
+				"/D/project/rungame/module/main/layer.coffee",
+				"/D/project/rungame/site/project.json",
+				"/D/project/onlinegame/frameworks/runtime-src/proj.ios_mac/ios/AppController.h",
+				"/D/project/run/res/map00.tmx",
+				"/D/project/run/frameworks/cocos2d-html5/template/src/myApp.js",
+				"/D/project/run/main.js",
+				"/D/project/rungame/module/main/car.coffee",
+				"/D/project/rungame/module/res.js",
+				"/D/project/rungame/module/main/bgLayer.coffee",
+				"/D/project/onlinegame/client/main.js",
+				"/D/project/rungame/site/game.min.js",
+				"/D/project/run/res/map01.tmx",
+				"/D/project/run/project.json",
+				"/D/project/onlinegame/client/Loader.js",
+				"/D/project/rungame/module/config.js",
+				"/D/project/rungame/module/main/map.js",
+				"/D/project/rungame/module/main/layer.js",
+				"/D/project/rungame/module/css.css",
+				"/D/project/rungame/core/game.coffee",
+				"/D/project/onlinegame/client/core/game.coffee",
+				"/D/project/onlinegame/client/core/cocos2d.coffee",
+				"/D/project/rungame/core/cocos2d.coffee",
+				"/D/project/onlinegame/client/core/cocos2d.js",
+				"/D/project/rungame/Parkour/src/PlayScene.js",
+				"/D/project/rungame/Parkour/src/BackgroundLayer.js",
+				"/D/project/rungame/Parkour/src/StatusLayer.js",
+				"/D/project/rungame/Parkour/index.html",
+				"/D/project/rungame/core/font.js",
+				"/D/project/onlinegame/client/modules/bags/Bags.coffee",
+				"/D/project/onlinegame/public/data/bags.js",
+				"/D/project/onlinegame/client/modules/bags/Bags.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/external/lua/luajit/build_android.sh",
+				"/D/project/onlinegame/client/core/button/button.coffee",
+				"/D/project/onlinegame/client/modules/skill/SelectSkill.coffee",
+				"/D/project/onlinegame/client/files.js",
+				"/D/project/onlinegame/client/Loader.coffee",
+				"/D/project/onlinegame/client/modules/login/Login.coffee",
+				"/D/project/onlinegame/client/modules/fight/Fight.coffee",
+				"/D/project/onlinegame/config.json",
+				"/D/project/onlinegame/frameworks/runtime-src/proj.android/res/values/strings.xml",
+				"/D/project/onlinegame/public/data/configs.js",
+				"/D/project/onlinegame/client/core/table/table.coffee",
+				"/D/project/onlinegame/client/core/loading/loading.coffee",
+				"/D/project/onlinegame/client/core/checkbox/checkbox.coffee",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/Cocos2dConstants.lua",
+				"/D/project/onlinegame/frameworks/cocos2d-html5/extensions/cocostudio/CocoStudio.js",
+				"/D/project/onlinegame/client/core/checkbox/checkbox.js",
+				"/D/project/onlinegame/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/CheckBoxReader/CheckBoxReader.js",
+				"/D/project/onlinegame/client/modules/equipment/UpgradeArtEquipment.coffee",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventController.lua",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/external/Box2D/Common/b2Settings.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/plugin/plugins/facebook/proj.ios/sdk/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBUserSettingsViewController.h",
+				"/D/project/onlinegame/client/modules/login/Login.js",
+				"/D/project/onlinegame/public/models/UserModel.equipment.coffee",
+				"/D/project/onlinegame/public/models/UserModel.user.coffee",
+				"/D/project/onlinegame/public/models/UserModel.coffee",
+				"/D/project/onlinegame/client/modules/equipment/UserProps.coffee",
+				"/D/project/onlinegame/client/modules/login/SelectServer.coffee",
+				"/D/project/onlinegame/client/modules/equipment/SelectEquipment.coffee",
+				"/D/project/onlinegame/server.coffee",
+				"/D/project/onlinegame/client/modules/equipment/Equip.coffee",
+				"/D/project/onlinegame/client/modules/equipment/Equip.js",
+				"/D/project/onlinegame/client/modules/fight/UnitSprite.js",
+				"/D/project/onlinegame/public/data/user.js",
+				"/D/project/onlinegame/public/data/equipments.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuadraticActionIn.lua",
+				"/D/project/onlinegame/client/models/ApiModel.coffee",
+				"/D/project/onlinegame/client/core/button/button.js",
+				"/D/project/onlinegame/client/res.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/docs/RELEASE_ENGINEERING.md",
+				"/D/project/onlinegame/readme.md",
+				"/D/project/onlinegame/test/FightModel.coffee",
+				"/D/project/onlinegame/test/fight.test.coffee",
+				"/D/project/onlinegame/public/data/fightprop.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FadeIn.lua",
+				"/D/project/onlinegame/client/modules/createrole/CreateRole.coffee",
+				"/D/project/onlinegame/server/lib/logutils.coffee",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/licenses/LICENSE_ogg_vorbis.txt",
+				"/D/project/onlinegame/public/data/artProps.js",
+				"/D/project/onlinegame/tools/bindings-generator/AUTHORS",
+				"/D/project/onlinegame/client/core/game.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/CCController-iOS.mm",
+				"/D/project/onlinegame/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIButton.js",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/ui/UIButton.h",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/ui/UIButton.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/ui/UITextBMFont.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccUtils.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccUTF8.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/ccCArray.cpp",
+				"/D/project/onlinegame/client/modules/login/LoginBgAndLogo.js",
+				"/D/project/onlinegame/client/modules/login/LoginBgAndLogo.coffee",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/platform/android/ControllerManualAdapter/src/org/cocos2dx/lib/GameControllerActivity.java",
+				"/D/project/onlinegame/public/data/gemAttrs.js",
+				"/D/project/onlinegame/tools/bindings-generator/generator",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/editor-support/cocostudio/WidgetReader/CheckBoxReader/CheckBoxReader.cpp",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/2d/cocos2d_headers.props",
+				"/D/project/onlinegame/frameworks/js-bindings/cocos2d-x/cocos/base/CCDataVisitor.cpp"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\"ctrl+i\"",
+					"ctrl+j\"",
+					"ctrl+j",
+					"ctrl+k\", \"ctrl+b\"",
+					"enter",
+					"test",
+					"ctrl",
+					"Emacs",
+					"ctrl",
+					"内",
+					"\"],",
+					"command",
+					"expand_selection",
+					"ctrl+shift+space",
+					"toggle_record_macro",
+					"ctrl+q\"",
+					"ctrl+tab",
+					"alt",
+					"focus_group",
+					"ctrl+0\"",
+					"\"ctrl+1\"",
+					"切换焦点到",
+					"focus_group",
+					"alt",
+					"next_prev",
+					"ctrl",
+					"\"ctrl+1\"",
+					"\"ctrl+alt+1\"",
+					"\"ctrl+alt+2\"",
+					"\"ctrl+2\"",
+					"ctrl+2\"",
+					"down",
+					"scroll",
+					"alt",
+					"toggle_full_screen",
+					"ctrl+,\"",
+					"ctrl+.\"",
+					"ctrl+'\"",
+					"ctrl+]\"",
+					"ctrl+'\"",
+					"backspace\"",
+					"ctrl+j\"]",
+					"ctrl+k\"]",
+					"ctrl+k\"",
+					"ctrl+l\"",
+					"ctrl+k",
+					"\"down\"",
+					"ctrl",
+					"shift",
+					"\"ctrl+b\"",
+					"history",
+					"down",
+					"\"down\"",
+					"copy",
+					"ctrl+c\"",
+					"ctrl+a\"",
+					"ctrll+a\"",
+					"ctrl+shift+t\"",
+					"ctrl+t\"",
+					"test",
+					"by",
+					"test",
+					"command",
+					"ctrl+p\"",
+					"delete",
+					"save",
+					"move",
+					"find",
+					"save",
+					"上一屏",
+					"move_to",
+					"alt",
+					"ctrl+k",
+					"vin",
+					"\"vi",
+					"\"h\"",
+					"extend",
+					",\"extend\":false}",
+					"comment",
+					"<",
+					"false",
+					"forward",
+					"pages",
+					"move",
+					"pagedown",
+					"screen",
+					"alt",
+					"true",
+					"false",
+					"true",
+					"alt",
+					"false",
+					"characters",
+					"ctrl",
+					"true",
+					"false",
+					"extend",
+					"bol",
+					"to",
+					"move_to",
+					"extend",
+					"bol",
+					"to",
+					"move_to",
+					"false",
+					"extend",
+					"bol",
+					"file",
+					"			",
+					")->\n",
+					"true",
+					"ctrl+e\"",
+					"\"alt+",
+					"ctrl+e\"",
+					"ctrl+e",
+					"{\"",
+					"e",
+					"end",
+					"window.onload",
+					"location.",
+					"20",
+					"30",
+					"20",
+					"380",
+					"32",
+					"distance",
+					"24",
+					"()"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"by",
+					"test",
+					"    {\"",
+					"{\"keys\":[\"ctrl+e\"],\"command\":\"move_to\",\"args\":{\"to\":\"eol\"}},//行尾",
+					"    {\"keys\":[\"ctrl+e\"],\"command\":\"move_to\",\"args\":{\"to\":\"eol\"}},//行尾",
+					"dirname"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/y/AppData/Roaming/Sublime Text 3/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2115,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1164,
+										1164
+									]
+								],
+								"settings":
+								{
+									"is_xml": false,
+									"open_with_edit": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1601.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "hotkey.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1119,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										768,
+										768
+									]
+								],
+								"settings":
+								{
+									"is_xml": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1296.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 480.0
+			},
+			"output.markdown":
+			{
+				"height": 130.0
+			},
+			"position": "0,2,3,-1,-1,-1,-1,1080,0,0,1920",
+			"project": "sublime-study.sublime-project",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"onlinegame\\config.json"
+					],
+					[
+						"serverco",
+						"onlinegame\\server.coffee"
+					],
+					[
+						"index.html",
+						"onlinegame\\index.html"
+					],
+					[
+						"rest",
+						"onlinegame\\client\\core\\rest\\rest.coffee"
+					],
+					[
+						"mapcoffe",
+						"rungame\\module\\main\\map.coffee"
+					],
+					[
+						"cocos2d",
+						"onlinegame\\client\\core\\cocos2d.coffee"
+					],
+					[
+						"gamecoffee",
+						"onlinegame\\client\\core\\game.coffee"
+					],
+					[
+						"bags.coffee",
+						"onlinegame\\client\\modules\\bags\\Bags.coffee"
+					],
+					[
+						"loadercoffee",
+						"onlinegame\\client\\Loader.coffee"
+					],
+					[
+						"file",
+						"onlinegame\\client\\files.js"
+					],
+					[
+						"cocos2dcoffe",
+						"onlinegame\\client\\core\\cocos2d.coffee"
+					],
+					[
+						"coco",
+						"onlinegame\\client\\core\\cocos2d.js"
+					],
+					[
+						"selectskill",
+						"onlinegame\\client\\modules\\skill\\SelectSkill.coffee"
+					],
+					[
+						"cocos2dcoffee",
+						"onlinegame\\client\\core\\cocos2d.coffee"
+					],
+					[
+						"game",
+						"onlinegame\\client\\core\\game.coffee"
+					],
+					[
+						"checkbojs",
+						"onlinegame\\client\\core\\checkbox\\checkbox.js"
+					],
+					[
+						"checkboxcoffee",
+						"onlinegame\\client\\core\\checkbox\\checkbox.coffee"
+					],
+					[
+						"usermodele",
+						"onlinegame\\public\\models\\UserModel.equipment.coffee"
+					],
+					[
+						"login.js",
+						"onlinegame\\client\\modules\\login\\Login.js"
+					],
+					[
+						"upgrade",
+						"onlinegame\\client\\modules\\equipment\\UpgradeArtEquipment.coffee"
+					],
+					[
+						"login",
+						"onlinegame\\client\\modules\\login\\Login.coffee"
+					],
+					[
+						"usermodeco",
+						"onlinegame\\public\\models\\UserModel.coffee"
+					],
+					[
+						"usermodeluser",
+						"onlinegame\\public\\models\\UserModel.user.coffee"
+					],
+					[
+						"equip.js",
+						"onlinegame\\client\\modules\\equipment\\Equip.js"
+					],
+					[
+						"equip.coff",
+						"onlinegame\\client\\modules\\equipment\\Equip.coffee"
+					],
+					[
+						"buttn",
+						"onlinegame\\client\\core\\button\\button.coffee"
+					],
+					[
+						"logincof",
+						"onlinegame\\client\\modules\\login\\Login.coffee"
+					],
+					[
+						"apimodel",
+						"onlinegame\\client\\models\\ApiModel.coffee"
+					],
+					[
+						"fightcoffee",
+						"onlinegame\\client\\modules\\fight\\Fight.coffee"
+					],
+					[
+						"configs.js",
+						"onlinegame\\public\\data\\configs.js"
+					],
+					[
+						"configs",
+						"onlinegame\\public\\data\\configs.js"
+					],
+					[
+						"ccuibutton",
+						"onlinegame\\frameworks\\cocos2d-html5\\extensions\\ccui\\uiwidgets\\UIButton.js"
+					],
+					[
+						"bagscoffee",
+						"onlinegame\\client\\modules\\bags\\Bags.coffee"
+					],
+					[
+						"bagjs",
+						"onlinegame\\client\\modules\\bags\\Bags.js"
+					],
+					[
+						"checkboxjs",
+						"onlinegame\\client\\core\\checkbox\\checkbox.js"
+					],
+					[
+						"button.js",
+						"onlinegame\\client\\core\\button\\button.js"
+					],
+					[
+						"button.coffee",
+						"onlinegame\\client\\core\\button\\button.coffee"
+					],
+					[
+						"res.sj",
+						"client\\res.js"
+					],
+					[
+						"checboxcoff",
+						"client\\core\\checkbox\\checkbox.coffee"
+					],
+					[
+						"checkbox.js",
+						"client\\core\\checkbox\\checkbox.js"
+					],
+					[
+						"checkbox.coffe",
+						"client\\core\\checkbox\\checkbox.coffee"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\project\\sublime-study\\sublime-study.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 20,
+			"workspace_name": "/D/project/sublime-study/sublime-study.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/project/sublime-study/sublime-study.sublime-workspace",
+			"/C/Users/y/AppData/Roaming/Sublime Text 3/Sublime Text.sublime-workspace",
+			"/D/project/rungame/rungame.sublime-workspace",
+			"/D/project/xxsys/xxsys.sublime-workspace",
+			"/D/project/browser-wu/browser-wu.sublime-workspace",
+			"/D/project/sublime-undocs/sublime-undocs.sublime-workspace"
+		]
+	}
+}

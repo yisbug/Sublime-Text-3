@@ -2,17 +2,24 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"Better CoffeeScript",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Git",
 		"IMESupport",
+		"JsFormat",
+		"LiveReload",
 		"Markdown Preview",
 		"MarkdownEditing",
-		"Package Control"
+		"Nodejs",
+		"Package Control",
+		"SideBarEnhancements",
+		"Tag",
+		"Terminal"
 	]
 }
