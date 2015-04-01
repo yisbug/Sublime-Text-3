@@ -4,7 +4,6 @@
 	],
 	"installed_packages":
 	[
-		"AutoFileName",
 		"Better CoffeeScript",
 		"ColorPicker",
 		"ConvertToUTF8",
@@ -18,6 +17,7 @@
 		"MarkdownEditing",
 		"Nodejs",
 		"Package Control",
+		"SFTP",
 		"SideBarEnhancements",
 		"Tag",
 		"Terminal"

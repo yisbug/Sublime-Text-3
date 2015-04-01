@@ -11,33 +11,34 @@
     
 
     // 光标移动
-    {"keys":["ctrl+p"],"command":"move","args":{"by":"lines","forward":false}},//上
-    {"keys":["ctrl+n"],"command":"move","args":{"by":"lines","forward":true}},//下
-    {"keys":["ctrl+b"],"command":"move","args":{"by":"characters","forward":false}},//左
-    {"keys":["ctrl+f"],"command":"move","args":{"by":"characters","forward":true}},//右
-    {"keys":["ctrl+a"],"command":"move_to","args":{"to":"bol"}},//行首
-    {"keys":["ctrl+e"],"command":"move_to","args":{"to":"eol"}},//行尾
+    {"keys":["ctrl+i"],"command":"move","args":{"by":"lines","forward":false}},//上
+    {"keys":["ctrl+k"],"command":"move","args":{"by":"lines","forward":true}},//下
+    {"keys":["ctrl+j"],"command":"move","args":{"by":"characters","forward":false}},//左
+    {"keys":["ctrl+l"],"command":"move","args":{"by":"characters","forward":true}},//右
 
-    {"keys":["ctrl+shift+p"],"command":"move","args":{"by":"lines","forward":false,"extend":true}},
-    {"keys":["ctrl+shift+n"],"command":"move","args":{"by":"lines","forward":true,"extend":true}},
-    {"keys":["ctrl+shift+b"],"command":"move","args":{"by":"characters","forward":false,"extend":true}},
-    {"keys":["ctrl+shift+f"],"command":"move","args":{"by":"characters","forward":true,"extend":true}},
-    {"keys":["ctrl+shift+a"],"command":"move_to","args":{"to":"bol","extend":true}},
-    {"keys":["ctrl+shift+e"],"command":"move_to","args":{"to":"eol","extend":true}},
+    {"keys":["ctrl+u"],"command":"move_to","args":{"to":"bol"}},//行首
+    {"keys":["ctrl+o"],"command":"move_to","args":{"to":"eol"}},//行尾
+
+    {"keys":["ctrl+shift+i"],"command":"move","args":{"by":"lines","forward":false,"extend":true}},
+    {"keys":["ctrl+shift+k"],"command":"move","args":{"by":"lines","forward":true,"extend":true}},
+    {"keys":["ctrl+shift+j"],"command":"move","args":{"by":"characters","forward":false,"extend":true}},
+    {"keys":["ctrl+shift+l"],"command":"move","args":{"by":"characters","forward":true,"extend":true}},
+    {"keys":["ctrl+shift+u"],"command":"move_to","args":{"to":"bol","extend":true}},
+    {"keys":["ctrl+shift+o"],"command":"move_to","args":{"to":"eol","extend":true}},
 
     {"keys":["alt+p"],"command":"move","args":{"by":"pages","forward":false}},//上一屏
     {"keys":["alt+n"],"command":"move","args":{"by":"pages","forward":true}},//下一屏
-    {"keys":["alt+b"],"command":"move","args":{"by":"words","forward":false}},//后一个单词
-    {"keys":["alt+f"],"command":"move","args":{"by":"words","forward":true}},//前一个单词
-    {"keys":["alt+a"],"command":"move_to","args":{"to":"bof"}},// 文件头部
-    {"keys":["alt+e"],"command":"move_to","args":{"to":"eof"}},// 文件结尾
+    {"keys":["alt+j"],"command":"move","args":{"by":"words","forward":false}},//后一个单词
+    {"keys":["alt+l"],"command":"move","args":{"by":"words","forward":true}},//前一个单词
+    {"keys":["alt+u"],"command":"move_to","args":{"to":"bof"}},// 文件头部
+    {"keys":["alt+o"],"command":"move_to","args":{"to":"eof"}},// 文件结尾
 
-    {"keys":["alt+shift+p"],"command":"move","args":{"by":"pages","forward":false}},//上一屏
-    {"keys":["alt+shift+n"],"command":"move","args":{"by":"pages","forward":true}},//下一屏
-    {"keys":["alt+shift+b"],"command":"move","args":{"by":"words","forward":false}},//后一个单词
-    {"keys":["alt+shift+f"],"command":"move","args":{"by":"words","forward":true}},//前一个单词
-    {"keys":["alt+shift+a"],"command":"move_to","args":{"to":"bof"}},// 文件头部
-    {"keys":["alt+shift+e"],"command":"move_to","args":{"to":"eof"}},// 文件结尾
+    {"keys":["alt+shift+p"],"command":"move","args":{"by":"pages","forward":false,"extend":true}},//上一屏
+    {"keys":["alt+shift+n"],"command":"move","args":{"by":"pages","forward":true,"extend":true}},//下一屏
+    {"keys":["alt+shift+b"],"command":"move","args":{"by":"words","forward":false,"extend":true}},//后一个单词
+    {"keys":["alt+shift+f"],"command":"move","args":{"by":"words","forward":true,"extend":true}},//前一个单词
+    {"keys":["alt+shift+a"],"command":"move_to","args":{"to":"bof","extend":true}},// 文件头部
+    {"keys":["alt+shift+e"],"command":"move_to","args":{"to":"eof","extend":true}},// 文件结尾
 
     // 选择，复制，粘贴，删除
     {"keys":["ctrl+q"],"command":"select_all"},//全选
@@ -54,7 +55,7 @@
     {"keys":["ctrl+t"],"command":"new_file"},//新建文件
     {"keys":["ctrl+s"],"command":"save"},//保存
     {"keys":["ctrl+w"],"command":"close"},//关闭
-    {"keys":["ctrl+o"],"command":"prompt_open_file"},//打开文件
+    // {"keys":["ctrl+o"],"command":"prompt_open_file"},//打开文件
 
     {"keys":["ctrl+shift+t"],"command":"new_window"},//打开最后一次文件
     {"keys":["ctrl+shift+w"],"command":"close_window"},//关闭窗口
@@ -66,7 +67,7 @@
 
     // 查找和替换
     { "keys": ["ctrl+y"], "command": "show_panel", "args": {"panel": "find", "reverse": false} },
-    {"keys":["ctrl+h"],"command":"show_panel","args":{"panel":"replace","reverse":false}},// 替换
+    // {"keys":["ctrl+h"],"command":"show_panel","args":{"panel":"replace","reverse":false}},// 替换
     // 滚动屏幕
 
     // 分组
@@ -108,10 +109,10 @@
     // 跳转到定义
     { "keys": ["ctrl+;"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} },
 
-    {"keys":["ctrl+u"],"command":"build"},//编译
-    {"keys":["ctrl+shift+u"],"command":"build","args":{"variant":"Run"}},
-    {"keys":["alt+shift+f"],"command":"toggle_full_screen"},//全屏
-    {"keys":["alt+shift+g"],"command":"toggle_distraction_free"},//无干扰模式
+    {"keys":["ctrl+b"],"command":"build"},//编译
+    {"keys":["ctrl+shift+b"],"command":"build","args":{"variant":"Run"}},
+    {"keys":["alt+shift+g"],"command":"toggle_full_screen"},//全屏
+    {"keys":["alt+shift+h"],"command":"toggle_distraction_free"},//无干扰模式
     {"keys":["ctrl+alt+b"],"command":"toggle_distraction_free"},//无干扰模式
 
     // {"keys":["ctrl+m"],"command":"toggle_record_macro"},//录制
@@ -119,15 +120,15 @@
     { "keys": ["ctrl+]"], "command": "indent" },//缩进
     { "keys": ["ctrl+["], "command": "unindent" },//取消缩进
 
-    { "keys": ["ctrl+l"], "command": "expand_selection", "args": {"to": "line"} },//选择行
+    // { "keys": ["ctrl+l"], "command": "expand_selection", "args": {"to": "line"} },//选择行
     { "keys": ["ctrl+d"], "command": "find_under_expand" },//选择下一个单词
     { "keys": ["ctrl+k", "ctrl+d"], "command": "find_under_expand_skip" },//忽略当前单词选择下一个
     { "keys": ["ctrl+shift+space"], "command": "expand_selection", "args": {"to": "scope"} },//选择当前作用域字符
     { "keys": ["ctrl+shift+m"], "command": "expand_selection", "args": {"to": "brackets"} },
     { "keys": ["ctrl+m"], "command": "move_to", "args": {"to": "brackets"} },//区域首尾跳转
-    { "keys": ["ctrl+shift+j"], "command": "expand_selection", "args": {"to": "indentation"} },
+    // { "keys": ["ctrl+shift+j"], "command": "expand_selection", "args": {"to": "indentation"} },
     { "keys": ["ctrl+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
-    { "keys": ["ctrl+j"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
 
     // 插件命令
     {
@@ -138,4 +139,5 @@
     { "keys": ["ctrl+alt+w"], "command": "open_terminal_project_folder" },
 
 
+    { "keys": ["ctrl+shift+."], "command": "insert_datetime","args":{"format":"ymdhms"} },
 ]
